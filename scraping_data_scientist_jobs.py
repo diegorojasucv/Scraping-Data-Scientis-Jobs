@@ -1,7 +1,7 @@
 """
-Objetivo: Extraer la descripcion de cargo de los puestos de Data Scientist en USA publicados en la pagina web de emples Indeed.
-Elaborado por: Diego Rojas
-Fecha: 1 Julio 2020
+OBJETIVO: Extraer la descripcion de cargo de los puestos de Data Scientist en USA publicados en la pagina web de emples Indeed.
+ELABORADO POR: Diego Rojas
+FECHA DE ELABORACIÓN: Julio 2020
 """
 from datetime import date
 from selenium import webdriver
